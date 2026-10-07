@@ -14,7 +14,7 @@ I'm Nicole, a nutritionist and PhD candidate from Brazil transitioning into Data
 Welcome to my portfolio, where I showcase my projects. You can find them in both places:
 
 - [Notion portfolio](https://tinyurl.com/notionportfolionicole)
-- [GitHub projects](https://github.com/schumachernicole?tab=repositories)
+- [Portfolio README guide](https://github.com/schumachernicole/Portfolio-Guide)
 
 ### 🛠️ Tools
 

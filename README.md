@@ -1,24 +1,24 @@
-## 🙋🏻‍♀️ About Me
+## Hi there 🙋‍♀️
 
-Hi, I'm Nicole! I'm a nutritionist and PhD candidate transitioning into a career in Data Analytics.
+I'm Nicole, a nutritionist and PhD candidate from Brazil transitioning into Data Analytics.
 
-Over the past 9 years in scientific research, I have developed strong experience in statistical analysis (SPSS) and data interpretation. I am now applying this analytical background to learning SQL, Python, and Power BI, building projects focused on data analysis, visualization, and business problem-solving.
+### ✨ About Me in 30 Secs ✨
 
-- 📊 Data analysis and reporting using Excel (Advanced)
-- 🧮 Statistical analysis with SPSS
-- 🐍 Learning Python for data analysis (pandas, matplotlib)
-- 🗄️ Learning SQL for data querying and manipulation
-- 📈 Building dashboards with Power BI
+- 🔬 9 years in scientific research, working with statistical analysis (SPSS) and data interpretation
+- 🗄️ Learning SQL, Power BI and Python by building hands-on projects
+- 📊 Excel is my go-to tool for everything: planning my finances, calculating diets and organizing my schedule
+- 💡 My goal: turn data into clear insights that support decisions and solve problems
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://app.notion.com/p/Nicole-Schumacher-Porf-lio-de-Dados-548bba2b597483c8b3e101ac8a0fd8a7).
+Welcome to my portfolio, where I showcase my projects. You can find them in both places:
+
+- [Notion portfolio](https://tinyurl.com/notionportfolionicole)
+- [GitHub projects](https://github.com/schumachernicole?tab=repositories)
 
 ### 🛠️ Tools
 
-- **Languages:** SQL, Python
-- **Data Visualization:** Power BI, Excel
-- **Statistics:** SPSS
+SQL, Excel and Power BI
 
 ### 👋🏻 Connect With Me
 

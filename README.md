@@ -18,7 +18,7 @@ Welcome to my portfolio, where I showcase my projects. You can find them in both
 
 ### 🛠️ Tools
 
-SQL, Excel and Power BI
+Excel, SQL, Power BI and Python
 
 ### 👋🏻 Connect With Me
 
